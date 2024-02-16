@@ -58,35 +58,53 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
    enables the creation of a conversational AI model capable of interacting with users while referencing and synthesizing
    information from multiple documents, facilitating dynamic and contextually rich conversations.
 
-- ***[Conversational-Q-A-Chatbot]:*** **langchain, openai, huggingface-hub, python-dotenv, streamlit**
+- ***[Conversational-Q-A-Chatbot](https://github.com/supunlakshan100/Conversational-Q-A-Chatbot-Using-Langchain-and-Openai):*** **langchain, openai, huggingface-hub, python-dotenv, streamlit**
 
   The ”Conversational-Q-A-Chatbot-Using-Langchain-and-OpenAI” project is a conversational question-answering
   chatbot developed with Langchain and OpenAI technologies. It aims to provide users with natural language interaction,
   facilitating QA sessions by leveraging advanced language processing capabilities for accurate and contextually relevant
   responses.
 
-- ***[Face-mask-classification-using-TransferLearning]:*** **Python, CNN, MobileNetV2**
+- ***[Face-mask-classification-using-TransferLearning](https://github.com/supunlakshan100/Face-mask-classification-using-TransferLearning):*** **Python, CNN, MobileNetV2**
 
   ”Face-mask-classification-using-TransferLearning” is a project focused on leveraging Transfer Learning techniques to
   classify images into categories of individuals wearing or not wearing face masks. By utilizing pre-trained models and
   fine-tuning them on a dataset of masked and unmasked faces, the project aims to facilitate automated monitoring and
   enforcement of face mask compliance in various settings.
 
-- ***[Tomato-Fruit-Detection-and-Counting]:*** **Python,Pytorch, Computer Vision, Faster RCNN**
+- ***[Tomato-Fruit-Detection-and-Counting](https://github.com/supunlakshan100/Tomato-Fruit-Detection-and-Counting-Using-Faster-RCNN):*** **Python,Pytorch, Computer Vision, Faster RCNN**
  
   ”Tomato-Fruit-Detection-and-Counting-Using-Faster-RCNN” is a computer vision project aimed at detecting and
    counting tomato fruits in images utilizing the Faster R-CNN (Region-based Convolutional Neural Network) architecture.
    By leveraging object detection techniques, the project facilitates automated monitoring and analysis of tomato crops,
    assisting in yield estimation and agricultural management.
 
-- *[Email-SMS-spam-classifier-NLP]:* **Python, Word2Vec, nltk, PorterStemmer**
+- ***[Email-SMS-spam-classifier-NLP](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP):*** **Python, Word2Vec, nltk, PorterStemmer**
 
    ”Email-SMS-spam-classifier-NLP” is a spam detection project designed to classify messages as either spam or non-spam
     in both email and SMS communication. Leveraging machine learning techniques, the project aims to automatically
     identify and filter out unwanted and potentially harmful messages, enhancing communication security and user
     experience.
 
+- ***[CCTV-Human-Detection-Using-YOLOv8n](https://github.com/supunlakshan100/CCTV_Human_Detection_Using-YOLOv8n):*** **Python, Computer Vision, YOLOv8n**
 
+    ”CCTV Human Detection Using-YOLOv8n” is a computer vision project that employs the YOLOv8n (You Only Look
+    One-level deeper with Narrower network) model for real-time human detection in Closed-Circuit Television (CCTV)
+    footage. The project focuses on efficient and accurate identification of human subjects within the surveillance video
+    stream.
+
+  - ***[Heart-risk-level-prediction-Using-FFNN](https://github.com/supunlakshan100/Heart-risk-level-prediction-Using-FFNN):*** **Python, keras, TensorFlow, FFNN**
+ 
+    ”Heart-risk-level-prediction-Using-FFNN” is a predictive modeling project focused on assessing the risk level of an
+    individual’s heart health. Utilizing machine learning algorithms and relevant health data, the project aims to predict the
+    likelihood of cardiovascular issues, providing valuable insights for proactive healthcare interventions.
+
+    - ***[IoT-Attendance-Marking-System-WebSite](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP):*** **HTML, CSS, JavaScript,PHP MongoDB, IOT**
+
+    **[Group Project]** - The ”IoT-Attendance-Marking-System-WebSite” is a web-based application designed to automate
+    attendance marking using Internet of Things (IoT) devices. By integrating IoT technology with a user-friendly website
+    interface, the project aims to streamline the attendance tracking process for educational institutions or organizations,
+    providing real-time insights and improving efficiency.
 
 ## **Get in Touch**
 
