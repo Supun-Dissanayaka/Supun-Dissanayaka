@@ -93,13 +93,13 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
     footage. The project focuses on efficient and accurate identification of human subjects within the surveillance video
     stream.
 
-  - ***[Heart-risk-level-prediction-Using-FFNN](https://github.com/supunlakshan100/Heart-risk-level-prediction-Using-FFNN):*** **Python, keras, TensorFlow, FFNN**
+- ***[Heart-risk-level-prediction-Using-FFNN](https://github.com/supunlakshan100/Heart-risk-level-prediction-Using-FFNN):*** **Python, keras, TensorFlow, FFNN**
  
     ”Heart-risk-level-prediction-Using-FFNN” is a predictive modeling project focused on assessing the risk level of an
     individual’s heart health. Utilizing machine learning algorithms and relevant health data, the project aims to predict the
     likelihood of cardiovascular issues, providing valuable insights for proactive healthcare interventions.
 
-    - ***[IoT-Attendance-Marking-System-WebSite](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP):*** **HTML, CSS, JavaScript,PHP MongoDB, IOT**
+- ***[IoT-Attendance-Marking-System-WebSite](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP):*** **HTML, CSS, JavaScript,PHP MongoDB, IOT**
 
     **[Group Project]** - The ”IoT-Attendance-Marking-System-WebSite” is a web-based application designed to automate
     attendance marking using Internet of Things (IoT) devices. By integrating IoT technology with a user-friendly website
