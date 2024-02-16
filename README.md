@@ -51,9 +51,42 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 ## **Projects**
 
-- *[Project Name]:* Brief description of the project and your contributions.
-- *[Project Name]:* Brief description of the project and your contributions.
-- *[Project Name]:* Brief description of the project and your contributions.
+- ***[Chat-with-multiple-documents-ai-model](https://github.com/supunlakshan100/Chat-multiple-documents-ai-model-Using-Generative-AI):*** **GenerativeAi, Python, Langchain, Chromadb, Faiss**
+  
+   The ”Chat-with-multiple-documents-ai-model-Using-Generative-AI” project integrates technologies such as Streamlit,
+   Google Generative AI, Python-dotenv, Langchain, PyPDF2, Chromadb, Faiss-cpu, and Langchain-google-genai. It
+   enables the creation of a conversational AI model capable of interacting with users while referencing and synthesizing
+   information from multiple documents, facilitating dynamic and contextually rich conversations.
+
+- ***[Conversational-Q-A-Chatbot]:*** **langchain, openai, huggingface-hub, python-dotenv, streamlit**
+
+  The ”Conversational-Q-A-Chatbot-Using-Langchain-and-OpenAI” project is a conversational question-answering
+  chatbot developed with Langchain and OpenAI technologies. It aims to provide users with natural language interaction,
+  facilitating QA sessions by leveraging advanced language processing capabilities for accurate and contextually relevant
+  responses.
+
+- ***[Face-mask-classification-using-TransferLearning]:*** **Python, CNN, MobileNetV2**
+
+  ”Face-mask-classification-using-TransferLearning” is a project focused on leveraging Transfer Learning techniques to
+  classify images into categories of individuals wearing or not wearing face masks. By utilizing pre-trained models and
+  fine-tuning them on a dataset of masked and unmasked faces, the project aims to facilitate automated monitoring and
+  enforcement of face mask compliance in various settings.
+
+- ***[Tomato-Fruit-Detection-and-Counting]:*** **Python,Pytorch, Computer Vision, Faster RCNN**
+ 
+  ”Tomato-Fruit-Detection-and-Counting-Using-Faster-RCNN” is a computer vision project aimed at detecting and
+   counting tomato fruits in images utilizing the Faster R-CNN (Region-based Convolutional Neural Network) architecture.
+   By leveraging object detection techniques, the project facilitates automated monitoring and analysis of tomato crops,
+   assisting in yield estimation and agricultural management.
+
+- *[Email-SMS-spam-classifier-NLP]:* **Python, Word2Vec, nltk, PorterStemmer**
+
+   ”Email-SMS-spam-classifier-NLP” is a spam detection project designed to classify messages as either spam or non-spam
+    in both email and SMS communication. Leveraging machine learning techniques, the project aims to automatically
+    identify and filter out unwanted and potentially harmful messages, enhancing communication security and user
+    experience.
+
+
 
 ## **Get in Touch**
 
