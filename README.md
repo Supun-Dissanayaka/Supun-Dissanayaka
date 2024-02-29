@@ -20,11 +20,11 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
   TensorFlow, Keras, and PyTorch for tasks like image recognition, natural 
   language processing, and speech recognition.
 
-    **ANNs: Learn from patterns in data,** forming the foundation for many Deep Learning models.
+    -    **ANNs: Learn from patterns in data,** forming the foundation for many Deep Learning models.
   
-    **CNNs: Excel at analyzing grid-like data,** making them ideal for image and video recognition.
+    -    **CNNs: Excel at analyzing grid-like data,** making them ideal for image and video recognition.
   
-    **RNNs: Handle sequential data,** enabling tasks like speech recognition and language translation.
+    -    **RNNs: Handle sequential data,** enabling tasks like speech recognition and language translation.
   
 **Natural Language Processing (NLP):**
 
