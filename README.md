@@ -6,24 +6,60 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 ## **Skills**
 
-- **Machine Learning:** Proficient in developing machine learning models for various applications including classification, regression, and clustering.
+**Machine Learning:**
 
-- **Deep Learning:** Experienced in building deep neural networks using frameworks such as TensorFlow, Keras, and PyTorch for tasks like image recognition, natural language processing,                         and speech recognition.
-- **Python:** Proficient in Python programming language for data manipulation, visualization, and model development.
+- **Proficient** in developing ML models for various applications 
+  (classification, regression, clustering).
+- **Experienced with Large Language Models (LLMs)** and leveraging the 
+  capabilities of OpenAI and Hugging Face Hub.
 
-- **Algorithm Development:** Skilled in designing and implementing algorithms for optimization, feature engineering, and model evaluation.
+**Deep Learning:**
 
-- **Data Engineering:** Experienced in data preprocessing, feature extraction, and data pipelines to ensure high-quality input for machine learning models.
+- **Skilled in building Artificial Neural Networks (ANNs), Convolutional Neural 
+  Networks (CNNs), and Recurrent Neural Networks (RNNs)** using frameworks like 
+  TensorFlow, Keras, and PyTorch for tasks like image recognition, natural 
+  language processing, and speech recognition.
 
-- **Cloud Computing:** Knowledgeable about deploying machine learning models on cloud platforms like AWS, Azure, and Google Cloud, utilizing services such as SageMaker, Azure ML, and AI                         Platform.
+    **ANNs: Learn from patterns in data,** forming the foundation for many Deep Learning models.
+  
+    **CNNs: Excel at analyzing grid-like data,** making them ideal for image and video recognition.
+  
+    **RNNs: Handle sequential data,** enabling tasks like speech recognition and language translation.
+  
+**Natural Language Processing (NLP):**
 
-- **Software Engineering:** Familiar with software development practices including version control, testing, and debugging for building robust and scalable AI solutions.
+- **Proficient** in NLP techniques (tokenization, named entity recognition, 
+  sentiment analysis, text generation).
+  
+- **Experienced** with leading NLP libraries like NLTK, spaCy, and Hugging Face 
+  Transformers.
+  
+**Additional Skills:**
 
-- **Natural Language Processing (NLP):** Proficient in NLP techniques such as tokenization, named entity recognition, sentiment analysis, and text generation using libraries like NLTK,                                            spaCy, and Hugging Face Transformers.
-
-- **Computer Vision:** Skilled in computer vision tasks including object detection, image segmentation, and image classification using frameworks like OpenCV and libraries like Pillow.
-
-
+- **Langchain:** Familiarity with the Langchain platform for facilitating large- 
+  scale NLP workflows.
+  
+- **ChromaDB:** Knowledge of ChromaDB, a database designed specifically for 
+  language models.
+  
+- **Computer Vision:** Skilled in computer vision tasks (object detection, image 
+  segmentation, image classification) using OpenCV and Pillow.
+  
+- **Python:** Proficient in Python for data manipulation, visualization, and 
+  model development.
+  
+- **Algorithm Development:** Skilled in designing and implementing algorithms for 
+  optimization, feature engineering, and model evaluation.
+  
+- **Data Engineering:** Experienced in data preprocessing, feature extraction, 
+  and building data pipelines for ML models.
+  
+- **Cloud Computing:** Knowledgeable about deploying ML models on cloud platforms 
+  (AWS, Azure, Google Cloud) using services like SageMaker, Azure ML, and AI 
+  Platform.
+  
+- **Software Engineering:** Familiar with software development practices (version 
+  control, testing, debugging) for building robust and scalable AI solutions.
 
 ## **Languages and Tools**
 🛠️ As an artificial intelligence engineer, I am proficient in various languages and tools essential for AI development, including:
@@ -38,7 +74,7 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 - **NLTK (Natural Language Toolkit):** Experienced in using NLTK for natural language processing tasks such as tokenization, stemming, and part-of-speech tagging.
 
-- spaCy: Skilled in spaCy, a library for advanced natural language processing tasks including named entity recognition, dependency parsing, and text classification.
+- **spaCy:** Skilled in spaCy, a library for advanced natural language processing tasks including named entity recognition, dependency parsing, and text classification.
 
 - **Hugging Face Transformers:** Proficient in utilizing the Hugging Face Transformers library for state-of-the-art natural language processing tasks such as language translation, text                                    summarization, and question answering.
 
