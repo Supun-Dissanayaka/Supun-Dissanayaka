@@ -128,6 +128,10 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
     One-level deeper with Narrower network) model for real-time human detection in Closed-Circuit Television (CCTV)
     footage. The project focuses on efficient and accurate identification of human subjects within the surveillance video
     stream.
+- ***[Fake-News-Classification-Using-RNN](https://github.com/supunlakshan100/Fake-News-Classification/tree/main):*** **Tensorflow,Keras,LSTM,nltk**
+
+    This project explores the application of Long Short-Term Memory (LSTM) networks, a type of RNN, to effectively classify real and fake news articles. Utilizing the TensorFlow and 
+    Keras libraries, the model is trained on a labeled dataset to learn the subtle nuances and patterns that distinguish these categories.
 
 - ***[Heart-risk-level-prediction-Using-FFNN](https://github.com/supunlakshan100/Heart-risk-level-prediction-Using-FFNN):*** **Python, keras, TensorFlow, FFNN**
  
