@@ -28,8 +28,8 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
   
 **Natural Language Processing (NLP):**
 
-- **Proficient** in NLP techniques (tokenization, named entity recognition, 
-  sentiment analysis, text generation).
+- **Proficient** in various NLP techniques, including word embedding (word2vec, TF-IDF, one-hot encoding), stemming, lemmatization, tokenization, named entity recognition, sentiment 
+  analysis, and text generation.
   
 - **Experienced** with leading NLP libraries like NLTK, spaCy, and Hugging Face 
   Transformers.
