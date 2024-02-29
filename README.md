@@ -47,6 +47,16 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
   
 - **Python:** Proficient in Python for data manipulation, visualization, and 
   model development.
+
+- **MLOps:** Experience with MLOps tools and best practices, including feature store, model monitoring, model
+  management, experiment tracking, and automated CI/CD pipelines.
+  
+- **Big Data Processing:** In-depth knowledge of PySpark, including experience in optimizing PySpark
+  programs in a cluster environment. Familiarity with cloud platforms like Azure Data Factory for data pipeline
+  management.
+  
+- **Model Deployment:** Experience deploying machine learning models in production environments using
+  containerization technologies like Docker and cloud services like Azure.
   
 - **Algorithm Development:** Skilled in designing and implementing algorithms for 
   optimization, feature engineering, and model evaluation.
