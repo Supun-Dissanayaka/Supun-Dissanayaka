@@ -97,7 +97,7 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 ## **Projects**
 
-- ***[End-to-End-Chest-Cancer-Classification-using-MLflow-DVC](https://github.com/supunlakshan100/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/tree/main):*** **Python, MLflow, Docker, AWS, Tensorflow, Keras, Flask, Html**
+- ***[End-to-End-Chest-Cancer-Classification-using-MLflow-DVC](https://github.com/supunlakshan100/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/tree/main):*** **Python, MLflow, VGG16 model, Docker, AWS, Tensorflow, Keras, Flask, Html**
 
   This project, titled 'End-to-End-Chest-Cancer-Classification-using-MLflow-DVC', is a Python-based endeavour leveraging MLflow, Docker, AWS, Tensorflow, Keras, Flask, and HTML. Utilizing the powerful VGG16 model alongside MLflow for tracking experiments, Docker for containerization, AWS for cloud services, and a combination of TensorFlow, Keras, Flask, and 
   HTML for building a robust end-to-end solution. Its primary goal is to develop a comprehensive solution for the classification of chest cancer. By employing machine learning 
