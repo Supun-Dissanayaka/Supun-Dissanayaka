@@ -97,11 +97,13 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pasindusameera&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pasindusameera&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindusameera&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=supunlakshan100&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=supunlakshan100&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=supunlakshan100&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Pasindusameera&color=blueviolet&style=flat&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=supunlakshan100&color=blueviolet&style=flat&label=Profile+Views)
+
 
 
 ## **Projects**
