@@ -118,11 +118,15 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![DVC](https://img.shields.io/badge/DVC-%29F09300?style=for-the-badge&logo=DVC&logoColor=orange)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=supunlakshan100&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=supunlakshan100&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=supunlakshan100&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunlakshan100&show_icons=true&theme=radical) | [![Supun Lakshan's Stri](https://streak-stats.demolab.com?user=supunlakshan100&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunlakshan100layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
-![](https://komarev.com/ghpvc/?username=supunlakshan100&color=blueviolet&style=flat&label=Profile+Views)
+
+
+[![Supun Lakshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=supunlakshan100&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
