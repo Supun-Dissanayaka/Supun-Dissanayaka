@@ -6,20 +6,22 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 ## **Skills**
 
-• **Languages:** Python, HTML, CSS, JavaScript, SQL
+• **Languages:** Python, HTML/CSS, JavaScript, SQL
 
-• **Artificial Intelligence:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer
-Vision, Data Science
+• **Artificial Intelligence:** Machine Learning, Deep Learning, Natural Language Processing, Computer vision,
+Generative AI and Large Language Models, Data Science, Neural Network Architectures, Algorithm
+Optimization, Statistical Analysis
 
 • **Developer Tools:** Anaconda Navigator, Jupyter Notebook, VS Code, PyCharm IDE, Spyder, Orange 3,
-IntelliJ IDE, Adobe Photoshop, Google Cloud Platform
+IntelliJ IDE, Google Cloud Platform
 
-• **Technologies/Frameworks:** Linux/Ubuntu, TensorFlow, Keras, PyTorch, FastAPI, Git and GitHub
+• **Technologies/Frameworks:** Linux/Ubuntu, TensorFlow, Keras, PyTorch, scikit-learn, NLTK,
+Transformers, OpenCV, Transfer learning, PySpark, CI/CD pipeline, FastAPI, Docker, AWS, Git and GitHub
 
 • **Languages:** Sinhala, English
 
-• **Soft Skills:** Problem-solving, Teamwork, Leadership, Adaptability, Fast learning ability, Collaboration,
-Flexibility, Strong communication skill
+• **Soft Skills:** Strong analytical and Problem-solving, Teamwork, Leadership, Adaptability, Fast learning
+ability, Collaboration, Flexibility , Strong analytical , Excellent communication skill
 
 ## Tech Stack:
 
