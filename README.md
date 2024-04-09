@@ -86,6 +86,9 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 ![Transformers](https://img.shields.io/badge/transformers-%23232F3E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23232F3E.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Transfer learning](https://img.shields.io/badge/transfer%20learning-%233776AB.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
+![OpenAI](https://img.shields.io/badge/OpenAI-%29ABCA00?style=for-the-badge&logo=OpenAI&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-%29F09300?style=for-the-badge&logo=DVC&logoColor=orange)
 ![PySpark](https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![CI/CD pipeline](https://img.shields.io/badge/CI%2FCD-%232c3e50.svg?style=for-the-badge&logo=devops&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -93,10 +96,6 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![DVC](https://img.shields.io/badge/DVC-%29F09300?style=for-the-badge&logo=DVC&logoColor=orange)
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![OpenAI](https://img.shields.io/badge/OpenAI-%29ABCA00?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ---
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunlakshan100&show_icons=true&theme=radical) | [![Supun Lakshan's Stri](https://streak-stats.demolab.com?user=supunlakshan100&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
