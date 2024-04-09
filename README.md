@@ -8,6 +8,11 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 • **Languages:** Python, HTML/CSS, JavaScript, SQL
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5/CSS3](https://img.shields.io/badge/html5%2Fcss3-%23E34F26%2F%231572B6.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 • **Artificial Intelligence:** Machine Learning, Deep Learning, Natural Language Processing, Computer vision,
 Generative AI and Large Language Models, Data Science, Neural Network Architectures, Algorithm
 Optimization, Statistical Analysis
