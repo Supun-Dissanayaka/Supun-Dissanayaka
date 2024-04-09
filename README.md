@@ -17,6 +17,16 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 Generative AI and Large Language Models, Data Science, Neural Network Architectures, Algorithm
 Optimization, Statistical Analysis
 
+![Machine Learning](https://img.shields.io/badge/machine%20learning-%23007ACC.svg?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/deep%20learning-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-%234ea94b.svg?style=for-the-badge&logo=natural-language-processing)
+![Computer Vision](https://img.shields.io/badge/computer%20vision-%235965e0.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Generative AI](https://img.shields.io/badge/generative%20AI-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/data%20science-%23000.svg?style=for-the-badge)
+![Neural Network Architectures](https://img.shields.io/badge/neural%20networks-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Algorithm Optimization](https://img.shields.io/badge/algorithm%20optimization-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/statistical%20analysis-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 • **Developer Tools:** Anaconda Navigator, Jupyter Notebook, VS Code, PyCharm IDE, Spyder, Orange 3,
 IntelliJ IDE, Google Cloud Platform
 
