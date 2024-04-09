@@ -4,9 +4,9 @@
 I am a dedicated, responsible and hardworking individual who wishes to utilise my skills, knowledge and experience to contribute to the company’s goals as a versatile team player. With a positive attitude, effective communication skills and a willingness to take on challenges, I am passionate about Artificial Intelligence Engineering, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision and Data Science.
 
 
----
-## **⚡ Technologies I use**
 
+## **⚡ Technologies I use**
+---
 • **Languages:** 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
