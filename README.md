@@ -6,94 +6,15 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 ## **Skills**
 
-**Machine Learning:**
-
-- **Proficient** in developing ML models for various applications 
-  (classification, regression, clustering).
-- **Experienced with Large Language Models (LLMs)** and leveraging the 
-  capabilities of OpenAI and Hugging Face Hub.
-
-**Deep Learning:**
-
-- **Skilled in building Artificial Neural Networks (ANNs), Convolutional Neural 
-  Networks (CNNs), and Recurrent Neural Networks (RNNs)** using frameworks like 
-  TensorFlow, Keras, and PyTorch for tasks like image recognition, natural 
-  language processing, and speech recognition.
-
-    -    **ANNs: Learn from patterns in data,** forming the foundation for many Deep Learning models.
-  
-    -    **CNNs: Excel at analyzing grid-like data,** making them ideal for image and video recognition.
-  
-    -    **RNNs: Handle sequential data,** enabling tasks like speech recognition and language translation.
-  
-**Natural Language Processing (NLP):**
-
-- **Proficient** in various NLP techniques, including word embedding (word2vec, TF-IDF, one-hot encoding), stemming, lemmatization, tokenization, named entity recognition, sentiment 
-  analysis, and text generation.
-  
-- **Experienced** with leading NLP libraries like NLTK, spaCy, and Hugging Face 
-  Transformers.
-  
-**Additional Skills:**
-
-- **Langchain:** Familiarity with the Langchain platform for facilitating large- 
-  scale NLP workflows.
-  
-- **ChromaDB:** Knowledge of ChromaDB, a database designed specifically for 
-  language models.
-  
-- **Computer Vision:** Skilled in computer vision tasks (object detection, image 
-  segmentation, image classification) using OpenCV and Pillow.
-  
-- **Python:** Proficient in Python for data manipulation, visualization, and 
-  model development.
-
-- **MLOps:** Experience with MLOps tools and best practices, including feature store, model monitoring, model
-  management, experiment tracking, and automated CI/CD pipelines.
-  
-- **Big Data Processing:** In-depth knowledge of PySpark, including experience in optimizing PySpark
-  programs in a cluster environment. Familiarity with cloud platforms like Azure Data Factory for data pipeline
-  management.
-  
-- **Model Deployment:** Experience deploying machine learning models in production environments using
-  containerization technologies like Docker and cloud services like Azure.
-  
-- **Algorithm Development:** Skilled in designing and implementing algorithms for 
-  optimization, feature engineering, and model evaluation.
-  
-- **Data Engineering:** Experienced in data preprocessing, feature extraction, 
-  and building data pipelines for ML models.
-  
-- **Cloud Computing:** Knowledgeable about deploying ML models on cloud platforms 
-  (AWS, Azure, Google Cloud) using services like SageMaker, Azure ML, and AI 
-  Platform.
-  
-- **Software Engineering:** Familiar with software development practices (version 
-  control, testing, debugging) for building robust and scalable AI solutions.
-
-## **Languages and Tools**
-🛠️ As an artificial intelligence engineer, I am proficient in various languages and tools essential for AI development, including:
-
-- **Python:** Proficient in Python programming language for developing AI models, implementing algorithms, and handling data.
-
-- **TensorFlow:** Experienced in using TensorFlow, an open-source deep learning framework developed by Google, for building and training neural network models.
-
-- **PyTorch:** Skilled in PyTorch, a deep learning framework known for its flexibility and ease of use, for developing and deploying AI solutions.
-
-- **Scikit-learn:** Proficient in Scikit-learn, a popular machine learning library in Python, for implementing various machine learning algorithms and techniques.
-
-- **NLTK (Natural Language Toolkit):** Experienced in using NLTK for natural language processing tasks such as tokenization, stemming, and part-of-speech tagging.
-
-- **spaCy:** Skilled in spaCy, a library for advanced natural language processing tasks including named entity recognition, dependency parsing, and text classification.
-
-- **Hugging Face Transformers:** Proficient in utilizing the Hugging Face Transformers library for state-of-the-art natural language processing tasks such as language translation, text                                    summarization, and question answering.
-
-- **Jupyter Notebooks:** Experienced in using Jupyter Notebooks for interactive development, experimentation, and visualization of AI models and results.
-
-- **Git:** Proficient in version control using Git for collaborative development, tracking changes, and managing code repositories.
-
-- **AWS, Google Cloud:** Knowledgeable about cloud platforms like AWS (Amazon Web Services), Azure, and Google Cloud, and proficient in utilizing their AI services and             
-                         infrastructure for deploying and running AI solutions.
+• Languages: Python, HTML, CSS, JavaScript, SQL
+• Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer
+Vision, Data Science
+• Developer Tools: Anaconda Navigator, Jupyter Notebook, VS Code, PyCharm IDE, Spyder, Orange 3,
+IntelliJ IDE, Adobe Photoshop, Google Cloud Platform
+• Technologies/Frameworks: Linux/Ubuntu, TensorFlow, Keras, PyTorch, FastAPI, Git and GitHub
+• Languages: Sinhala, English
+• Soft Skills: Problem-solving, Teamwork, Leadership, Adaptability, Fast learning ability, Collaboration,
+Flexibility, Strong communication skill
 
 ## Tech Stack:
 
