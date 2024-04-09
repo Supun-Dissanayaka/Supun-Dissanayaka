@@ -145,3 +145,5 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 - **LinkedIn:** www.linkedin.com/in/supun-lakshan-331537200
 - **Email:** lakshans793@gmail.com
+- **Twitter:** https://twitter.com/SupunLakshan753
+- **My Portfolio:** https://supunlakshan100.github.io/Portfolio_web_site/
