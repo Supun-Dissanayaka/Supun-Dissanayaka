@@ -1,4 +1,4 @@
-# **Hello, I'm Supun** 👋
+# **Hi there, I'm Supun** 👋
 
 ### **About Me**
 I am a dedicated, responsible and hardworking individual who wishes to utilise my skills, knowledge and experience to contribute to the company’s goals as a versatile team player. With a positive attitude, effective communication skills and a willingness to take on challenges, I am passionate about Artificial Intelligence Engineering, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision and Data Science.
