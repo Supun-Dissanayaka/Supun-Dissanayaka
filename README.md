@@ -6,16 +6,14 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 ## **Skills**
 
-• **Languages:** Python, HTML/CSS, JavaScript, SQL
+• **Languages:** 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5/CSS3](https://img.shields.io/badge/html5%2Fcss3-%23E34F26%2F%231572B6.svg?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-• **Artificial Intelligence:** Machine Learning, Deep Learning, Natural Language Processing, Computer vision,
-Generative AI and Large Language Models, Data Science, Neural Network Architectures, Algorithm
-Optimization, Statistical Analysis
+• **Artificial Intelligence:** 
 
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-%23007ACC.svg?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/deep%20learning-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -27,11 +25,36 @@ Optimization, Statistical Analysis
 ![Algorithm Optimization](https://img.shields.io/badge/algorithm%20optimization-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/statistical%20analysis-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-• **Developer Tools:** Anaconda Navigator, Jupyter Notebook, VS Code, PyCharm IDE, Spyder, Orange 3,
-IntelliJ IDE, Google Cloud Platform
+• **Developer Tools:** 
 
-• **Technologies/Frameworks:** Linux/Ubuntu, TensorFlow, Keras, PyTorch, scikit-learn, NLTK,
-Transformers, OpenCV, Transfer learning, PySpark, CI/CD pipeline, FastAPI, Docker, AWS, Git and GitHub
+![Anaconda Navigator](https://img.shields.io/badge/anaconda%20navigator-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm IDE](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black)
+![Spyder](https://img.shields.io/badge/spyder-143?style=for-the-badge&logo=spyderide&logoColor=white)
+![Orange 3](https://img.shields.io/badge/orange-3-F6921E.svg?style=for-the-badge&logo=orange)
+![IntelliJ IDE](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+• **Technologies/Frameworks:** 
+
+![Linux/Ubuntu](https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/nltk-50C878?style=for-the-badge&logo=nltk&logoColor=white)
+![Transformers](https://img.shields.io/badge/transformers-232F3E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Transfer learning](https://img.shields.io/badge/transfer%20learning-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![CI/CD pipeline](https://img.shields.io/badge/CI%2FCD-333333?style=for-the-badge&logo=devops&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 • **Languages:** Sinhala, English
 
