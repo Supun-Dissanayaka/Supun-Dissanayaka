@@ -41,7 +41,7 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 </table>
 </div>
 
-
+---
 ## **Skills**
 
 • **Languages:** 
@@ -106,7 +106,7 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 
 [![Supun Lakshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=supunlakshan100&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+---
 ## **Projects**
 
 - ***[End-to-End-Chest-Cancer-Classification-using-MLflow-DVC](https://github.com/supunlakshan100/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/tree/main):*** **Python, MLflow, VGG16 model, Docker, AWS, Tensorflow, Keras, Flask, Html**
