@@ -4,45 +4,8 @@
 I am a dedicated, responsible and hardworking individual who wishes to utilise my skills, knowledge and experience to contribute to the company’s goals as a versatile team player. With a positive attitude, effective communication skills and a willingness to take on challenges, I am passionate about Artificial Intelligence Engineering, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision and Data Science.
 
 
-## ⚡ Technologies I use 
-
-<div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
-        </td>
-    </tr>
-</table>
-</div>
-
 ---
-## **Skills**
+## **⚡ Technologies I use**
 
 • **Languages:** 
 
