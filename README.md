@@ -7,12 +7,16 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 ## **Skills**
 
 • Languages: Python, HTML, CSS, JavaScript, SQL
+
 • Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer
 Vision, Data Science
+
 • Developer Tools: Anaconda Navigator, Jupyter Notebook, VS Code, PyCharm IDE, Spyder, Orange 3,
 IntelliJ IDE, Adobe Photoshop, Google Cloud Platform
+
 • Technologies/Frameworks: Linux/Ubuntu, TensorFlow, Keras, PyTorch, FastAPI, Git and GitHub
 • Languages: Sinhala, English
+
 • Soft Skills: Problem-solving, Teamwork, Leadership, Adaptability, Fast learning ability, Collaboration,
 Flexibility, Strong communication skill
 
