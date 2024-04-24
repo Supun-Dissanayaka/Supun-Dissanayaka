@@ -29,18 +29,6 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 ![Algorithm Optimization](https://img.shields.io/badge/algorithm%20optimization-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/statistical%20analysis-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-• **Developer Tools:** 
-
-![Anaconda Navigator](https://img.shields.io/badge/anaconda%20navigator-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm IDE](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black)
-![Spyder](https://img.shields.io/badge/spyder-143?style=for-the-badge&logo=spyderide&logoColor=white)
-![Orange 3](https://img.shields.io/badge/orange-3-F6921E.svg?style=for-the-badge&logo=orange)
-![IntelliJ IDE](https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
 • **Technologies/Frameworks:** 
 
 ![Linux/Ubuntu](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
