@@ -62,12 +62,19 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
 ---
 ## **Projects**
 
+- ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** **Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit **
+
+  This project, Automated-MCQ-Generator is designed to automatically generate multiple-choice questions (MCQs) from any PDF or text document. Utilizing Langchain, python, and OpenAI 
+  API, users can seamlessly generate diverse MCQs tailored to their documents. Deployed on AWS and implemented as a Streamlit app, this project offers a convenient solution for 
+  generating MCQs efficiently.
+
 - ***[End-to-End-Chest-Cancer-Classification-using-MLflow-DVC](https://github.com/supunlakshan100/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/tree/main):*** **Python, MLflow, VGG16 model, Docker, AWS, Tensorflow, Keras, Flask, Html**
 
-  This project, titled 'End-to-End-Chest-Cancer-Classification-using-MLflow-DVC', is a Python-based endeavour leveraging MLflow, Docker, AWS, Tensorflow, Keras, Flask, and HTML. Utilizing the powerful VGG16 model alongside MLflow for tracking experiments, Docker for containerization, AWS for cloud services, and a combination of TensorFlow, Keras, Flask,
-  HTML and Dagshub for building a robust end-to-end solution. Its primary goal is to develop a comprehensive solution for the classification of chest cancer. By employing machine learning 
-  techniques, including deep learning models like VGG16, alongside containerization, cloud services, and web development frameworks, this project aims to provide an end-to-end solution 
-  for accurately identifying and categorizing chest cancer cases. Explore the repository to delve into the intricacies of this innovative approach. 
+  This project, titled 'End-to-End-Chest-Cancer-Classification-using-MLflow-DVC', is a Python-based endeavour leveraging MLflow, Docker, AWS, Tensorflow, Keras, Flask, and HTML.     
+  Utilizing the powerful VGG16 model alongside MLflow for tracking experiments, Docker for containerization, AWS for cloud services, and a combination of TensorFlow, Keras, Flask,
+  HTML and Dagshub for building a robust end-to-end solution. Its primary goal is to develop a comprehensive solution for the classification of chest cancer. By employing machine 
+  learning techniques, including deep learning models like VGG16, alongside containerization, cloud services, and web development frameworks, this project aims to provide an end-to-end 
+  solution for accurately identifying and categorizing chest cancer cases. Explore the repository to delve into the intricacies of this innovative approach. 
   
 
 - ***[Chat-with-multiple-documents-ai-model](https://github.com/supunlakshan100/Chat-multiple-documents-ai-model-Using-Generative-AI):*** **GenerativeAi, Python, Langchain, Chromadb, Faiss**
