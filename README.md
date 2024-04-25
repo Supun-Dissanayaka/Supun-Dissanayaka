@@ -77,7 +77,7 @@ I am a dedicated, responsible and hardworking individual who wishes to utilise m
   solution for accurately identifying and categorizing chest cancer cases. Explore the repository to delve into the intricacies of this innovative approach. 
   
 
-- ***[Chat-with-multiple-documents-ai-model](https://github.com/supunlakshan100/Chat-multiple-documents-ai-model-Using-Generative-AI):*** **GenerativeAi, Python, Langchain, Chromadb, Faiss**
+- ***[DocGem-Multi-Document Conversational AI Assistant](https://github.com/supunlakshan100/Chat-multiple-documents-ai-model-Using-Generative-AI):*** **GenerativeAi, Python, Langchain, Chromadb, Faiss**
   
    The ”Chat-with-multiple-documents-ai-model-Using-Generative-AI” project integrates technologies such as Streamlit,
    Google Generative AI, Python-dotenv, Langchain, PyPDF2, Chromadb, Faiss-cpu, and Langchain-google-genai. It
