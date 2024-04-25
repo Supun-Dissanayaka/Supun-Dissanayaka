@@ -1,8 +1,18 @@
-# **Hi there, I'm Supun** 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Supun 😀</h1>
+<!--<h4 align="center">I'm a Data Scientist at iNeuron Intelligence</h4>
 
-### **About Me**
-I am a dedicated, responsible and hardworking individual who wishes to utilise my skills, knowledge and experience to contribute to the company’s goals as a versatile team player. With a positive attitude, effective communication skills and a willingness to take on challenges, I am passionate about Artificial Intelligence Engineering, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision and Data Science.
 
+
+### I have technical experience and interest in:
+* Deep Learning
+* Machine Learning
+* Computer vision 
+* Natural Language Processing
+* MLOps
+* Generative AI 
+* Microcontrollers 
+* Robotics
 
 ---
 
