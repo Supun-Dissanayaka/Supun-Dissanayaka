@@ -10,8 +10,6 @@
 * Natural Language Processing
 * MLOps
 * Generative AI 
-* Microcontrollers 
-* Robotics
 
 ---
 
