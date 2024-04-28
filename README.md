@@ -109,10 +109,10 @@
 
 - ***[CCTV-Human-Detection-Using-YOLOv8n](https://github.com/supunlakshan100/CCTV_Human_Detection_Using-YOLOv8n):*** **Python, Computer Vision, YOLOv8n**
 
-    ”CCTV Human Detection Using-YOLOv8n” is a computer vision project that employs the YOLOv8n (You Only Look
-    One-level deeper with Narrower network) model for real-time human detection in Closed-Circuit Television (CCTV)
-    footage. The project focuses on efficient and accurate identification of human subjects within the surveillance video
-    stream.
+    Proficient in developing cutting-edge computer vision solutions, with hands-on experience in implementing ’CCTV
+    Human Detection’ using YOLOv8n model. Leveraged extensive CCTV image footage datasets to train and optimize the
+    model, demonstrating a keen understanding of object detection techniques and deep learning frameworks.
+
 - ***[Fake-News-Classification-Using-RNN](https://github.com/supunlakshan100/Fake-News-Classification/tree/main):*** **Tensorflow,Keras,LSTM,nltk**
 
     This project explores the application of Long Short-Term Memory (LSTM) networks, a type of RNN, to effectively classify real and fake news articles. Utilizing the TensorFlow and 
