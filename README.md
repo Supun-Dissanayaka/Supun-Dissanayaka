@@ -100,7 +100,7 @@
    By leveraging object detection techniques, the project facilitates automated monitoring and analysis of tomato crops,
    assisting in yield estimation and agricultural management.
 
-- ***[Email-SMS-spam-classifier-NLP](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP):*** **Python, Word2Vec, nltk, PorterStemmer**
+- ***[Email-SMS-spam-classifier-NLP](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP):*** **Python, scikit-learn, Word2Vec, nltk, PorterStemmer**
 
    ”Email-SMS-spam-classifier-NLP” is a spam detection project designed to classify messages as either spam or non-spam
     in both email and SMS communication. Leveraging machine learning techniques, the project aims to automatically
