@@ -26,6 +26,8 @@
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%233776AB.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![langchain](https://img.shields.io/badge/langchain-%23232F3E.svg?style=for-the-badge&logo=python&logoColor=white)
+![MLOPS](https://img.shields.io/badge/MLOPS-%233776AB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/nltk-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white)
 ![Transformers](https://img.shields.io/badge/transformers-%23232F3E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
