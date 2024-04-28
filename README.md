@@ -41,7 +41,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Neural Network Architectures](https://img.shields.io/badge/Neural%20Network%20Architectures-%233776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Algorithm Optimization](https://img.shields.io/badge/Algorithm%20Optimization-%23232F3E.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
