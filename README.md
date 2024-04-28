@@ -17,27 +17,11 @@
 
 ## **Technologies I use ⚡**
 
-• **Languages:** 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5/CSS3](https://img.shields.io/badge/html5%2Fcss3-%23E34F26%2F%231572B6.svg?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-• **Artificial Intelligence:** 
-
-![Machine Learning](https://img.shields.io/badge/machine%20learning-%23007ACC.svg?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/deep%20learning-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Natural Language Processing](https://img.shields.io/badge/NLP-%234ea94b.svg?style=for-the-badge&logo=natural-language-processing)
-![Computer Vision](https://img.shields.io/badge/computer%20vision-%235965e0.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![Generative AI](https://img.shields.io/badge/generative%20AI-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/data%20science-%23000.svg?style=for-the-badge)
-![Neural Network Architectures](https://img.shields.io/badge/neural%20networks-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Algorithm Optimization](https://img.shields.io/badge/algorithm%20optimization-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/statistical%20analysis-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-• **Technologies/Frameworks:** 
-
 ![Linux/Ubuntu](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%233776AB.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
@@ -55,8 +39,12 @@
 ![FastAPI](https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Neural Network Architectures](https://img.shields.io/badge/neural%20networks-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Algorithm Optimization](https://img.shields.io/badge/algorithm%20optimization-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/statistical%20analysis-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunlakshan100&show_icons=true&theme=radical) | [![Supun Lakshan's Stri](https://streak-stats.demolab.com?user=supunlakshan100&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
