@@ -32,7 +32,6 @@
 ![NLTK](https://img.shields.io/badge/nltk-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white)
 ![Transformers](https://img.shields.io/badge/transformers-%23232F3E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23232F3E.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Transfer learning](https://img.shields.io/badge/transfer%20learning-%233776AB.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%29ABCA00?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-%29F09300?style=for-the-badge&logo=DVC&logoColor=orange)
@@ -41,15 +40,14 @@
 ![FastAPI](https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Neural Network Architectures](https://img.shields.io/badge/neural%20networks-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Algorithm Optimization](https://img.shields.io/badge/algorithm%20optimization-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/statistical%20analysis-%234285F4.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Neural Network Architectures](https://img.shields.io/badge/Neural%20Network%20Architectures-%233776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Network Architectures](https://img.shields.io/badge/Neural%20Network%20Architectures-%233776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Algorithm Optimization](https://img.shields.io/badge/Algorithm%20Optimization-%23232F3E.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%23232F3E.svg?style=for-the-badge&logo=statistics&logoColor=white)
+
 
 
 
