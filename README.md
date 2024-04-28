@@ -47,6 +47,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+![Neural Network Architectures](https://img.shields.io/badge/Neural%20Network%20Architectures-%233776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Algorithm Optimization](https://img.shields.io/badge/Algorithm%20Optimization-%23232F3E.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+
 
 ---
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunlakshan100&show_icons=true&theme=radical) | [![Supun Lakshan's Stri](https://streak-stats.demolab.com?user=supunlakshan100&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
