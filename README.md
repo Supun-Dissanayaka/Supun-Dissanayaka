@@ -30,7 +30,6 @@
 ![MLOPS](https://img.shields.io/badge/MLOPS-%233776AB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/nltk-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white)
-![Transformers](https://img.shields.io/badge/transformers-%23232F3E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23232F3E.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%29ABCA00?style=for-the-badge&logo=OpenAI&logoColor=white)
@@ -46,7 +45,7 @@
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Neural Network Architectures](https://img.shields.io/badge/Neural%20Network%20Architectures-%233776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Algorithm Optimization](https://img.shields.io/badge/Algorithm%20Optimization-%23232F3E.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%23232F3E.svg?style=for-the-badge&logo=statistics&logoColor=white)
+
 
 
 
