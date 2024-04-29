@@ -60,7 +60,8 @@
 ---
 ## **Projects**
 
-- ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** <span style="color:#90EE90;">Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit</span>
+- ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** <font color="green">Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit</font>
+
 
 
   This project, Automated-MCQ-Generator is designed to automatically generate multiple-choice questions (MCQs) from any PDF or text document. Utilizing Langchain, python, and OpenAI 
