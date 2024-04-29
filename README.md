@@ -60,7 +60,7 @@
 ---
 ## **Projects**
 
-- ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** <font color="green">Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit</font>
+- ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** **Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit**
 
 
 
