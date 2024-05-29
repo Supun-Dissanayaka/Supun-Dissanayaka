@@ -67,25 +67,6 @@
 
    In this project, I developed an advanced medical chatbot designed to provide accurate and reliable medical information to     users. Leveraging the power of the Llama2 language model and various AI technologies, the chatbot was engineered to enhance   user interaction and support with sophisticated natural language processing capabilities.
 
-  Key Features and Technologies:
-
-  Llama2 and Langchain: Utilized Llama2 for its robust language understanding and generation capabilities, integrated with      Langchain to manage conversational flows and enhance context retention.
-
-  Pinecone Database: Implemented Pinecone for efficient vector storage and retrieval, ensuring quick access to relevant         information and a seamless user experience.
-
-  Advanced NLP Techniques: Employed sentence-transformers for semantic understanding, enabling the chatbot to comprehend and    respond to complex medical queries with precision.
-
-  Web Framework and Deployment: Developed the application backend using Flask, facilitating easy deployment and scalability     on AWS. This ensured that the chatbot could handle high traffic and provide consistent performance.
-
-  User Interaction and Data Management: Focused on creating an intuitive and user-friendly interface, leveraging advanced NLP   capabilities to interpret user inputs accurately and manage medical data responsibly.
-
-  Achievements:
-
-  Developed a highly reliable and user-friendly medical chatbot capable of providing detailed and contextually relevant         medical advice.
-  Enhanced the chatbot's ability to understand and generate natural language, improving user engagement and satisfaction.
-  Successfully deployed the solution on AWS, ensuring scalability and robust performance.
-  This project demonstrates my ability to integrate cutting-edge AI technologies to solve real-world problems, showcasing my    skills in natural language processing, data management, and scalable deployment.
-
 
 - ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** **Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit**
 
