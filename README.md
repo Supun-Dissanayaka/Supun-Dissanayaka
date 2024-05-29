@@ -65,7 +65,7 @@
 
 ***May 2024 - May 2024***
 
-  In this project, I developed an advanced medical chatbot designed to provide accurate and reliable medical information to     users. Leveraging the power of the Llama2 language model and various AI technologies, the chatbot was engineered to enhance   user interaction and support with sophisticated natural language processing capabilities.
+    In this project, I developed an advanced medical chatbot designed to provide accurate and reliable medical information to     users. Leveraging the power of the Llama2 language model and various AI technologies, the chatbot was engineered to enhance   user interaction and support with sophisticated natural language processing capabilities.
 
   Key Features and Technologies:
 
