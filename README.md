@@ -67,7 +67,7 @@
 
   In this project, I developed an advanced medical chatbot designed to provide accurate and reliable medical information to     users. Leveraging the power of the Llama2 language model and various AI technologies, the chatbot was engineered to enhance   user interaction and support with sophisticated natural language processing capabilities.
 
-Key Features and Technologies:
+  Key Features and Technologies:
 
   Llama2 and Langchain: Utilized Llama2 for its robust language understanding and generation capabilities, integrated with      Langchain to manage conversational flows and enhance context retention.
 
@@ -79,7 +79,7 @@ Key Features and Technologies:
 
   User Interaction and Data Management: Focused on creating an intuitive and user-friendly interface, leveraging advanced NLP   capabilities to interpret user inputs accurately and manage medical data responsibly.
 
-Achievements:
+  Achievements:
 
   Developed a highly reliable and user-friendly medical chatbot capable of providing detailed and contextually relevant         medical advice.
   Enhanced the chatbot's ability to understand and generate natural language, improving user engagement and satisfaction.
