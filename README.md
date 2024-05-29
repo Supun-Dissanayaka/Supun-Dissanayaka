@@ -90,13 +90,6 @@
    Successfully deployed the solution on AWS, ensuring scalability and robust performance.
    This project demonstrates my ability to integrate cutting-edge AI technologies to solve real-world problems, showcasing my    skills in natural language processing, data management, and scalable deployment.
 
-- ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** **Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit**
-
-
-
-  This project, Automated-MCQ-Generator is designed to automatically generate multiple-choice questions (MCQs) from any PDF or text document. Utilizing Langchain, python, and OpenAI 
-  API, users can seamlessly generate diverse MCQs tailored to their documents. Deployed on AWS and implemented as a Streamlit app, this project offers a convenient solution for 
-  generating MCQs efficiently.
 
 
 - ***[Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API):*** **Generative Ai, python, Langchain, OpenAI API, AWS, Streamlit**
