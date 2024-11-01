@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Supun 😀</h1>
+<h4 align="center">I'm a Associate Artificial Intelligence Engineer</h4>
 
 
 
@@ -17,44 +18,46 @@
 
 ## **Technologies I use ⚡**
 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5/CSS3](https://img.shields.io/badge/html5%2Fcss3-%23E34F26%2F%231572B6.svg?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Linux/Ubuntu](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%233776AB.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![langchain](https://img.shields.io/badge/langchain-%23232F3E.svg?style=for-the-badge&logo=python&logoColor=white)
-![MLOPS](https://img.shields.io/badge/MLOPS-%233776AB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/nltk-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23232F3E.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![OpenAI](https://img.shields.io/badge/OpenAI-%29ABCA00?style=for-the-badge&logo=OpenAI&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-%29F09300?style=for-the-badge&logo=DVC&logoColor=orange)
-![PySpark](https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-![CI/CD pipeline](https://img.shields.io/badge/CI%2FCD-%232c3e50.svg?style=for-the-badge&logo=devops&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Neural Network Architectures](https://img.shields.io/badge/Neural%20Network%20Architectures-%233776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Algorithm Optimization](https://img.shields.io/badge/Algorithm%20Optimization-%23232F3E.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5%2Fcss3-%23E34F26%2F%231572B6.svg?style=for-the-badge" alt="HTML5/CSS3"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux/Ubuntu"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/tensorflow-%233776AB.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/> </a>
+  <a href="https://keras.io/" target="_blank"> <img src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="https://img.shields.io/badge/langchain-%23232F3E.svg?style=for-the-badge&logo=python&logoColor=white" alt="LangChain"/> </a>
+  <a href="https://mlops.community/" target="_blank"> <img src="https://img.shields.io/badge/MLOPS-%233776AB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="MLOps"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
+  <a href="https://www.nltk.org/" target="_blank"> <img src="https://img.shields.io/badge/nltk-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/opencv-%23232F3E.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> </a>
+  <a href="https://mlflow.org/" target="_blank"> <img src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLflow"/> </a>
+  <a href="https://www.openai.com/" target="_blank"> <img src="https://img.shields.io/badge/OpenAI-%29ABCA00?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/> </a>
+  <a href="https://dvc.org/" target="_blank"> <img src="https://img.shields.io/badge/DVC-%29F09300?style=for-the-badge&logo=DVC&logoColor=orange" alt="DVC"/> </a>
+  <a href="https://spark.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/> </a>
+  <a href="https://aws.amazon.com/cicd/" target="_blank"> <img src="https://img.shields.io/badge/CI%2FCD-%232c3e50.svg?style=for-the-badge&logo=devops&logoColor=white" alt="CI/CD pipeline"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/Transfer%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transfer Learning"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/Neural%20Network%20Architectures-%233776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Network Architectures"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Algorithm%20Optimization-%23232F3E.svg?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Algorithm Optimization"/> </a>
+</p>
 
 
 
 
 
 ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunlakshan100&show_icons=true&theme=radical) | [![Supun Lakshan's Stri](https://streak-stats.demolab.com?user=supunlakshan100&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunlakshan100&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                             
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Supun-Dissanayaka&show_icons=true&locale=en&layout=compact" alt="Supun-Dissanayaka" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Supun-Dissanayaka&show_icons=true&locale=en" alt="Supun-Dissanayaka" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supun-Dissanayaka&" alt="Supun-Dissanayaka" /></p>
 
 ---
 ## **Projects**
