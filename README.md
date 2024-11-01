@@ -112,12 +112,10 @@ Due to the sensitive nature of the project, the source code is not publicly avai
 ### [End-to-End-Medical-Chatbot-Using-Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)
 **Technologies:** Python, Generative AI, Llama2, Langchain, Pinecone, sentence-transformers, Flask, AWS
 
+**Timeline:** May 2024
+
 ![End-to-End Medical Chatbot](https://github.com/Supun-Dissanayaka/End-to-End-Medical-Chatbot-Using-Llama2/blob/main/Output/Chatbot.png?raw=true)
 
-
-
-
-**Timeline:** May 2024
 
 #### Overview
 In this project, I developed an advanced medical chatbot designed to provide accurate and reliable medical information to users. Leveraging the power of the Llama2 language model and various AI technologies, the chatbot was engineered to enhance user interaction and support with sophisticated natural language processing capabilities.
