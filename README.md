@@ -112,6 +112,9 @@ Due to the sensitive nature of the project, the source code is not publicly avai
 ### [End-to-End-Medical-Chatbot-Using-Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)
 **Technologies:** Python, Generative AI, Llama2, Langchain, Pinecone, sentence-transformers, Flask, AWS
 
+![Medical-Chatbot](https://github.com/Supun-Dissanayaka/End-to-End-Medical-Chatbot-Using-Llama2/blob/main/Output/Chatbot.png/sample_outputimage.jpg?raw=true)
+
+
 **Timeline:** May 2024
 
 #### Overview
@@ -136,6 +139,9 @@ In this project, I developed an advanced medical chatbot designed to provide acc
 **Technologies:** Generative AI, Python, Langchain, OpenAI API, AWS, Streamlit
 
 **Timeline:** April 2024
+
+![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputImages/sample_outputimage.jpg?raw=true)
+
 
 #### Overview
 Created an automated system to generate multiple-choice questions from PDFs using Python and the OpenAI API. This project enhanced educational content generation efficiency by 40%, with deployment on AWS and Streamlit integration.
