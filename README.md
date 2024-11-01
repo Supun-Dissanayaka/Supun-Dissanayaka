@@ -140,8 +140,6 @@ In this project, I developed an advanced medical chatbot designed to provide acc
 
 **Timeline:** April 2024
 
-![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputImages/sample_outputimage.jpg?raw=true)
-
 
 #### Overview
 Created an automated system to generate multiple-choice questions from PDFs using Python and the OpenAI API. This project enhanced educational content generation efficiency by 40%, with deployment on AWS and Streamlit integration.
