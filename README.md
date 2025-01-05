@@ -158,6 +158,10 @@ Created an automated system to generate multiple-choice questions from PDFs usin
 
 **Timeline:** March 2024
 
+## **Here is a demo containing the project output:**
+![Smart Surveillance System](https://github.com/Supun-Dissanayaka/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/blob/main/output/output.gif?raw=true)
+
+
 #### Overview
 Developed a robust solution for classifying chest cancer cases with 92% accuracy. Utilized MLflow for experiment tracking, Docker for containerization, and deployed the solution on AWS with Flask web app integration.
 
