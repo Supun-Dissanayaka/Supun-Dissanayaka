@@ -240,208 +240,196 @@ The **End-to-End Medical Chatbot** leverages the power of Llama2 and advanced NL
 #AI #Llama2 #Langchain #Python #Flask #AWS #MedicalChatbot #NLP  
 
 
-### [Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API)
-**Technologies:** Generative AI, Python, Langchain, OpenAI API, AWS, Streamlit
+### 📚 [Automated MCQ Generator Using Langchain & OpenAI API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API)  
+**🛠️ Technologies:** Generative AI, Python, Langchain, OpenAI API, AWS, Streamlit  
+**⏳ Timeline:** April 2024  
 
-**Timeline:** April 2024
+#### 📖 Overview  
+🚀 Created an automated system to generate multiple-choice questions from PDFs, improving educational content generation efficiency by 40%. Deployed on AWS with Streamlit integration.  
 
+#### 🔑 Key Features  
+- ✨ **Generative AI & Langchain**: Coherent and contextually relevant MCQ generation.  
+- 🤖 **OpenAI API**: Natural language understanding and question generation.  
+- ☁️ **AWS & Streamlit**: Scalable deployment and user-friendly interface.  
 
-#### Overview
-Created an automated system to generate multiple-choice questions from PDFs using Python and the OpenAI API. This project enhanced educational content generation efficiency by 40%, with deployment on AWS and Streamlit integration.
-
-#### Key Features and Technologies
-- **Generative AI and Langchain:** Utilized generative AI models integrated with Langchain for creating coherent and contextually relevant MCQs.
-- **OpenAI API:** Leveraged the OpenAI API for natural language understanding and question generation.
-- **AWS and Streamlit:** Deployed the application on AWS for scalability, with Streamlit integration for a user-friendly interface.
-
-#### Achievements
-- Automated the generation of educational content, significantly reducing the time and effort required.
-- Improved the quality and relevance of the generated questions, aiding educators in efficient content delivery.
-- Demonstrated expertise in integrating AI technologies with cloud deployment and interactive interfaces.
+#### 🏆 Achievements  
+✅ Automated educational content generation.  
+✅ Enhanced question quality and relevance.  
+✅ Expertise in AI technologies with cloud integration.  
 
 ---
 
-### [End-to-End-Chest-Cancer-Classification-using-MLflow-DVC](https://github.com/supunlakshan100/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/tree/main)
-**Technologies:** Python, MLflow, VGG16 model, Docker, AWS, TensorFlow, Keras, Flask, HTML
+### 🩺 [End-to-End Chest Cancer Classification Using MLflow & DVC](https://github.com/supunlakshan100/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/tree/main)  
+**🛠️ Technologies:** Python, MLflow, VGG16, Docker, AWS, TensorFlow, Keras, Flask, HTML  
+**⏳ Timeline:** March 2024  
 
-**Timeline:** March 2024
+![Demo](https://github.com/Supun-Dissanayaka/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/blob/main/output/output.gif?raw=true)  
 
-## **Here is a demo containing the project output:**
-![Smart Surveillance System](https://github.com/Supun-Dissanayaka/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/blob/main/output/output.gif?raw=true)
+#### 📖 Overview  
+🔍 Developed a robust chest cancer classification model achieving 92% accuracy. Leveraged MLflow for tracking, Docker for containerization, and AWS for deployment.  
 
+#### 🔑 Key Features  
+- 🧠 **VGG16 Model**: High-performance cancer detection.  
+- ⚙️ **MLflow & Docker**: Experiment tracking and consistent environments.  
+- ☁️ **AWS & Flask**: Seamless deployment with web app integration.  
 
-#### Overview
-Developed a robust solution for classifying chest cancer cases with 92% accuracy. Utilized MLflow for experiment tracking, Docker for containerization, and deployed the solution on AWS with Flask web app integration.
-
-#### Key Features and Technologies
-- **TensorFlow and Keras:** Employed these frameworks to develop and train a VGG16 model for accurate cancer classification.
-- **MLflow and Docker:** Used MLflow for tracking experiments and Docker for containerization to ensure consistent deployment environments.
-- **AWS and Flask:** Deployed the model on AWS, integrating with Flask for a seamless web application experience.
-
-#### Achievements
-- Achieved high accuracy in chest cancer classification, contributing to early detection and treatment planning.
-- Demonstrated effective use of MLOps practices for model development and deployment.
-- Showcased skills in integrating machine learning models with web technologies for practical applications.
+#### 🏆 Achievements  
+✅ High-accuracy cancer classification.  
+✅ Effective use of MLOps practices.  
+✅ Web integration of machine learning models.  
 
 ---
 
-### [DocGem-Multi-Document Conversational AI Assistant](https://github.com/supunlakshan100/Chat-multiple-documents-ai-model-Using-Generative-AI)
-**Technologies:** Generative AI, Python, Langchain, Chromadb, Faiss
+### 🤖 [DocGem: Multi-Document Conversational AI Assistant](https://github.com/supunlakshan100/Chat-multiple-documents-ai-model-Using-Generative-AI)  
+**🛠️ Technologies:** Generative AI, Python, Langchain, Chromadb, Faiss  
+**⏳ Timeline:** February 2024  
 
-**Timeline:** February 2024
+#### 📖 Overview  
+📚 Built a conversational AI synthesizing multi-document information with Faiss and Streamlit integration, enabling dynamic and context-rich conversations.  
 
-#### Overview
-Created a conversational AI capable of synthesizing information from multiple documents using a Faiss database and Streamlit integration. Enhanced user interaction with dynamic and contextually rich conversations.
+#### 🔑 Key Features  
+- 🧠 **Generative AI & Langchain**: Multi-document query handling.  
+- 🔍 **Faiss Database**: Efficient similarity search.  
+- 🌐 **Streamlit**: Interactive and user-friendly interface.  
 
-#### Key Features and Technologies
-- **Generative AI and Langchain:** Integrated generative AI models with Langchain to handle multi-document queries and provide coherent responses.
-- **Faiss Database:** Utilized Faiss for efficient similarity search and information retrieval from large document sets.
-- **Streamlit:** Implemented Streamlit for an interactive and user-friendly web interface.
-
-#### Achievements
-- Developed an AI assistant capable of handling complex, multi-document queries with high accuracy.
-- Improved user engagement through dynamic and contextually appropriate interactions.
-- Demonstrated expertise in combining advanced AI techniques with interactive web applications.
-
----
-
-### [Conversational-Q-A-Chatbot](https://github.com/supunlakshan100/Conversational-Q-A-Chatbot-Using-Langchain-and-Openai)
-**Technologies:** Langchain, OpenAI, Huggingface Hub, Python-dotenv, Streamlit
-
-**Timeline:** February 2024
-
-#### Overview
-Developed a question-answering chatbot using Langchain and the OpenAI API for natural language interactions. Leveraged advanced language models to provide accurate and contextually relevant responses.
-
-#### Key Features and Technologies
-- **Langchain and OpenAI API:** Utilized these technologies for managing conversational flows and generating accurate responses.
-- **Huggingface Hub:** Integrated with Huggingface models for enhanced language understanding.
-- **Streamlit:** Developed an interactive interface using Streamlit for user-friendly interactions.
-
-#### Achievements
-- Created a responsive and accurate Q&A chatbot, enhancing user engagement and satisfaction.
-- Showcased proficiency in utilizing advanced language models for practical applications.
-- Demonstrated ability to integrate AI models with user-friendly web interfaces.
+#### 🏆 Achievements  
+✅ AI assistant for complex queries.  
+✅ Enhanced user interaction.  
+✅ Advanced AI techniques with web application integration.  
 
 ---
 
-### [Face-mask-classification-using-TransferLearning](https://github.com/supunlakshan100/Face-mask-classification-using-TransferLearning)
-**Technologies:** Python, CNN, MobileNetV2
+### 💬 [Conversational Q&A Chatbot](https://github.com/supunlakshan100/Conversational-Q-A-Chatbot-Using-Langchain-and-Openai)  
+**🛠️ Technologies:** Langchain, OpenAI, Huggingface Hub, Python-dotenv, Streamlit  
+**⏳ Timeline:** February 2024  
 
-**Timeline:** January 2024
+#### 📖 Overview  
+💡 Developed a Q&A chatbot for natural language interactions, leveraging advanced AI models for accurate responses.  
 
-#### Overview
-Designed a CNN model using MobileNetV2 to detect mask-wearing individuals with over 90% accuracy. Employed transfer learning to enhance the model’s performance in identifying face masks in images.
+#### 🔑 Key Features  
+- 🧠 **Langchain & OpenAI API**: Conversational flow management.  
+- 📚 **Huggingface Hub**: Enhanced language understanding.  
+- 🌐 **Streamlit**: User-friendly interface.  
 
-#### Key Features and Technologies
-- **TensorFlow and MobileNetV2:** Utilized transfer learning with MobileNetV2 to develop an accurate face mask detection model.
-- **CNN Architecture:** Designed and trained a CNN model for image classification tasks.
-
-#### Achievements
-- Successfully developed a face mask detection model with high accuracy, contributing to public health efforts.
-- Demonstrated proficiency in transfer learning and CNN architectures.
-- Showcased ability to apply machine learning techniques to real-world problems.
-
-### [Email-SMS-spam-classifier-NLP](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP)
-**Technologies:** Python, scikit-learn, Word2Vec, nltk, PorterStemmer
-
-**Timeline:** December 2023
-
-#### Overview
-Developed a classifier to identify spam messages using advanced NLP techniques. Utilized feature engineering and text preprocessing methods to enhance model performance.
-
-#### Key Features and Technologies
-- **scikit-learn and Word2Vec:** Employed these tools for feature extraction and model development.
-- **nltk and PorterStemmer:** Utilized these libraries for text preprocessing and stemming.
-
-#### Achievements
-- Created an effective spam classifier, improving email and SMS filtering.
-- Demonstrated expertise in natural language processing and feature engineering.
-- Enhanced skills in text preprocessing and model evaluation.
+#### 🏆 Achievements  
+✅ Responsive Q&A chatbot.  
+✅ Practical AI model application.  
+✅ Seamless AI and web integration.  
 
 ---
 
-### [CCTV-Human-Detection-Using-YOLOv8n](https://github.com/supunlakshan100/CCTV_Human_Detection_Using-YOLOv8n)
-**Technologies:** Python, Computer Vision, YOLOv8n
+### 😷 [Face Mask Classification Using Transfer Learning](https://github.com/supunlakshan100/Face-mask-classification-using-TransferLearning)  
+**🛠️ Technologies:** Python, CNN, MobileNetV2  
+**⏳ Timeline:** January 2024  
 
-**Timeline:** December 2023
+#### 📖 Overview  
+🔬 Developed a CNN model for face mask detection with over 90% accuracy using MobileNetV2.  
 
-#### Overview
-Implemented a computer vision solution to detect humans in CCTV footage using YOLOv8n. Trained and optimized the model with extensive CCTV image datasets for accurate human detection.
+#### 🔑 Key Features  
+- 🧠 **TensorFlow & MobileNetV2**: Transfer learning for improved accuracy.  
+- 🖼️ **CNN Architecture**: Efficient image classification.  
 
-#### Key Features and Technologies
-- **YOLOv8n and CNN:** Utilized YOLOv8n for object detection and CNN for image classification.
-- **Computer Vision Techniques:** Applied advanced techniques for accurate human detection in CCTV footage.
-
-#### Achievements
-- Developed a robust human detection system for surveillance applications.
-- Demonstrated proficiency in computer vision and object detection techniques.
-- Showcased ability to train and optimize deep learning models for practical use cases.
-
----
-
-### [Fake-News-Classification-Using-RNN](https://github.com/supunlakshan100/Fake-News-Classification/tree/main)
-**Technologies:** TensorFlow, Keras, LSTM, nltk, One Hot Encoding
-
-**Timeline:** June 2024
-
-#### Overview
-Built a system to classify fake news with 91% accuracy using LSTM and one-hot encoding. Processed and analyzed textual data to effectively differentiate between fake and genuine news articles.
-
-#### Key Features and Technologies
-- **TensorFlow and Keras:** Employed these frameworks to develop and train an LSTM model for fake news classification.
-- **nltk and One Hot Encoding:** Utilized nltk for text preprocessing and one-hot encoding for feature representation.
-
-#### Achievements
-- Achieved high accuracy in classifying fake news, contributing to the fight against misinformation.
-- Demonstrated expertise in natural language processing and sequence modeling techniques.
-- Enhanced skills in data preprocessing and model training for NLP tasks.
+#### 🏆 Achievements  
+✅ High-accuracy face mask detection.  
+✅ Expertise in transfer learning.  
+✅ Real-world machine learning application.  
 
 ---
 
-### [Heart-risk-level-prediction-Using-FFNN](https://github.com/supunlakshan100/Heart-risk-level-prediction-Using-FFNN)
-**Technologies:** Python, Keras, TensorFlow, FFNN
+### 📧 [Email & SMS Spam Classifier](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP)  
+**🛠️ Technologies:** Python, scikit-learn, Word2Vec, nltk, PorterStemmer  
+**⏳ Timeline:** December 2023  
 
-**Timeline:** September 2023
+#### 📖 Overview  
+📤 Built a classifier for spam detection using advanced NLP techniques, improving filtering accuracy.  
 
-#### Overview
-Built a model to predict heart risk levels, providing valuable insights for proactive healthcare. Utilized machine learning algorithms and relevant health data for accurate risk assessment.
+#### 🔑 Key Features  
+- 📊 **scikit-learn & Word2Vec**: Feature extraction and model development.  
+- 📝 **nltk & PorterStemmer**: Text preprocessing and stemming.  
 
-#### Key Features and Technologies
-- **Keras and TensorFlow:** Employed these frameworks to develop and train a feed-forward neural network (FFNN) for risk prediction.
-- **Health Data Analysis:** Utilized relevant health data for model training and evaluation.
-
-#### Achievements
-- Developed an accurate heart risk prediction model, aiding in proactive healthcare management.
-- Demonstrated expertise in neural network architectures and health data analysis.
-- Showcased ability to apply machine learning techniques to healthcare problems.
+#### 🏆 Achievements  
+✅ Effective spam classification.  
+✅ Mastery of NLP techniques.  
+✅ Skill in feature engineering.  
 
 ---
 
-### [IoT-Attendance-Marking-System-WebSite](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP)
-**Technologies:** HTML, CSS, JavaScript, PHP, MongoDB, IoT
+### 👁️‍🗨️ [CCTV Human Detection Using YOLOv8n](https://github.com/supunlakshan100/CCTV_Human_Detection_Using-YOLOv8n)  
+**🛠️ Technologies:** Python, Computer Vision, YOLOv8n  
+**⏳ Timeline:** December 2023  
 
-**Timeline:** [Group Project]
+#### 📖 Overview  
+🔍 Designed a computer vision system for human detection in CCTV footage using YOLOv8n.  
 
-#### Overview
-The "IoT Attendance Marking System WebSite" is a web-based application designed to automate attendance marking using Internet of Things (IoT) devices. By integrating IoT technology with a user-friendly website interface, the project aims to streamline the attendance tracking process for educational institutions or organizations, providing real-time insights and improving efficiency.
+#### 🔑 Key Features  
+- 🧠 **YOLOv8n**: High-accuracy human detection.  
+- 📹 **Computer Vision Techniques**: Advanced detection methods.  
 
-#### Key Features and Technologies
-- **IoT Integration:** Utilized IoT devices to capture attendance data automatically, reducing manual entry errors and ensuring accurate records.
-- **Web Development:** Developed the front-end using HTML, CSS, and JavaScript for an interactive and responsive user interface.
-- **Backend Development:** Employed PHP for server-side scripting to manage database interactions and business logic.
-- **Database Management:** Implemented MongoDB for efficient data storage and retrieval, ensuring scalable and reliable performance.
-- **Real-time Insights:** Provided real-time attendance data and analytics to administrators, enabling quick decision-making and improved operational efficiency.
+#### 🏆 Achievements  
+✅ Reliable human detection system.  
+✅ Expertise in object detection.  
+✅ Real-world computer vision application.  
 
-#### Achievements
-- Successfully developed and deployed an automated attendance marking system, enhancing the accuracy and efficiency of attendance tracking.
-- Demonstrated the ability to integrate IoT technology with web development to solve practical problems.
-- Improved user experience with a responsive and intuitive web interface, making it easy for administrators and users to interact with the system.
-- Showcased expertise in full-stack development, from front-end design to back-end implementation and database management.
+---
 
-## **Get in Touch**
+### 📰 [Fake News Classification Using RNN](https://github.com/supunlakshan100/Fake-News-Classification/tree/main)  
+**🛠️ Technologies:** TensorFlow, Keras, LSTM, nltk, One Hot Encoding  
+**⏳ Timeline:** June 2024  
 
-- **LinkedIn:** www.linkedin.com/in/supun-lakshan-331537200
-- **Email:** supun.ud@outlook.com
-- **Twitter:** https://twitter.com/SupunLakshan753
-- **My Portfolio:** https://supunlakshan100.github.io/Portfolio_web_site/
+#### 📖 Overview  
+📰 Built a fake news classifier with 91% accuracy using LSTM and text preprocessing.  
+
+#### 🔑 Key Features  
+- 🧠 **TensorFlow & Keras**: LSTM model for text classification.  
+- 📝 **nltk & One Hot Encoding**: Data preprocessing and feature representation.  
+
+#### 🏆 Achievements  
+✅ High-accuracy fake news detection.  
+✅ Proficiency in sequence modeling.  
+✅ Effective NLP application.  
+
+---
+
+### ❤️ [Heart Risk Level Prediction Using FFNN](https://github.com/supunlakshan100/Heart-risk-level-prediction-Using-FFNN)  
+**🛠️ Technologies:** Python, Keras, TensorFlow, FFNN  
+**⏳ Timeline:** September 2023  
+
+#### 📖 Overview  
+❤️ Built a feed-forward neural network (FFNN) to predict heart risk levels, aiding in proactive healthcare.  
+
+#### 🔑 Key Features  
+- 🧠 **Keras & TensorFlow**: FFNN for risk prediction.  
+- 📊 **Health Data Analysis**: Accurate risk assessments.  
+
+#### 🏆 Achievements  
+✅ Accurate heart risk prediction.  
+✅ Advanced health data analysis.  
+✅ Real-world healthcare solution.  
+
+---
+
+### 🌐 [IoT Attendance Marking System Website](https://github.com/supunlakshan100/Email-SMS-spam-classifier-NLP)  
+**🛠️ Technologies:** HTML, CSS, JavaScript, PHP, MongoDB, IoT  
+**⏳ Timeline:** [Group Project]  
+
+#### 📖 Overview  
+📋 Designed an IoT-powered attendance tracking website, integrating real-time data and analytics for educational institutions.  
+
+#### 🔑 Key Features  
+- 📡 **IoT Integration**: Automated attendance tracking.  
+- 🌐 **Web Development**: Interactive and responsive interface.  
+- 🛠️ **Backend & Database**: PHP and MongoDB for scalability.  
+
+#### 🏆 Achievements  
+✅ Automated attendance tracking system.  
+✅ Real-time analytics for decision-making.  
+✅ Full-stack IoT solution development.  
+
+---
+
+## 🌟 **Get in Touch**  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/supun-lakshan-331537200)  
+- 📧 **Email**: supun.ud@outlook.com  
+- 🐦 [**Twitter**](https://twitter.com/SupunLakshan753)  
+- 🌐 [**Portfolio**](https://supunlakshan100.github.io/Portfolio_web_site/)  
+
