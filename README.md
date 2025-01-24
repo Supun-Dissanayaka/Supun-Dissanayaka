@@ -57,7 +57,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supun-Dissanayaka&" alt="Supun-Dissanayaka" /></p>
 
 ---
-## **Projects**
+# **Projects**
 
 # [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)
 **Technologies:** Python, YOLOv9, EasyOCR, OpenCV, Flask, AWS
