@@ -59,7 +59,7 @@
 ---
 # **Projects**
 
-# [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)
+### [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)
 **Technologies:** Python, YOLOv9, EasyOCR, OpenCV, Flask, AWS
 
 **Timeline:** November 2024  
@@ -126,7 +126,7 @@ The **Vehicle Number Plate Detection System** is a robust and scalable solution 
 
 
 
-# [Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System)
+### [Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System)
 **Technologies:** Python, OpenCV, YOLOv8 (custom-trained), ResNet-50, Cosine similarity, Kalman filtering, Tracking Algorithms (Deep SORT, ByteTrack, FairMOT)  
 
 **Timeline:** July 2024  
@@ -187,7 +187,7 @@ Due to the sensitive nature of the project, the source code is not publicly avai
 
 ---
 
-# [End-to-End Medical Chatbot Using Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)
+### [End-to-End Medical Chatbot Using Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)
 **Technologies:** Python, Generative AI, Llama2, Langchain, Pinecone, sentence-transformers, Flask, AWS  
 
 **Timeline:** May 2024  
