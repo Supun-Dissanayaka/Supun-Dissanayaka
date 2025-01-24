@@ -59,181 +59,70 @@
 ---
 # **Projects**
 
-### [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)
+### 🚗 [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)  
 **Technologies:** Python, YOLOv9, EasyOCR, OpenCV, Flask, AWS  
 **Timeline:** November 2024  
 
 ![Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR/blob/main/output_.gif?raw=true)  
 
----
+#### Overview  
+Developed a real-time system for vehicle number plate detection and recognition, combining advanced object detection models and OCR technologies.  
 
-## 🚗 Project Overview
-The **Vehicle Number Plate Detection System** is a highly efficient solution for detecting and recognizing vehicle number plates in real-time, utilizing advanced object detection models and OCR technologies for accurate performance in applications such as traffic monitoring, toll collection, and parking management.
+#### Key Features  
+- 🔍 **Real-Time Detection:** YOLOv9 for rapid and accurate number plate identification.  
+- 📝 **OCR Integration:** EasyOCR extracts text from plates with high precision.  
+- 🌐 **Web Interface:** Flask app for seamless user interaction.  
+- ☁️ **Cloud Hosting:** Deployed on AWS for scalability and reliability.  
 
----
-
-## ✨ Key Features
-- **🔍 Real-Time Detection:** Uses YOLOv9 for rapid and precise detection of vehicle number plates.  
-- **📝 OCR Text Recognition:** Leverages EasyOCR for accurate text extraction, even in challenging conditions.  
-- **📸 Image Enhancement:** OpenCV-based image preprocessing for improved detection accuracy.  
-- **🌐 Web Interface:** Flask-based web app for easy image upload and video feed access.  
-- **☁️ Cloud Hosting:** Deployed on AWS for scalability and reliability.  
-
----
-
-## 🛠️ Technologies Used
-- **Object Detection:** YOLOv9  
-- **OCR Framework:** EasyOCR  
-- **Image Processing:** OpenCV  
-- **Web Framework:** Flask  
-- **Programming Language:** Python  
-- **Cloud Hosting:** AWS  
+#### Achievements  
+- ✅ High detection and recognition accuracy.  
+- ✅ Successful integration of YOLOv9 and EasyOCR for robust performance.  
+- ✅ Scalable cloud deployment on AWS.  
 
 ---
 
-## 📚 How It Works
-1. **🔎 Detection:** YOLOv9 detects vehicle number plates from images or live feeds.  
-2. **📝 OCR Processing:** EasyOCR extracts alphanumeric text from detected plates.  
-3. **🌐 Web Interface:** Flask enables seamless user interaction with uploads and video feeds.  
-4. **☁️ Deployment:** System is deployed on AWS for performance and scalability.
-
----
-
-## 📈 Achievements
-- ✅ Achieved high accuracy in vehicle number plate detection and text recognition.  
-- ✅ Deployed on AWS for reliable and scalable performance.  
-- ✅ Integrated advanced OCR and object detection technologies into a unified system.
-
----
-
-## 🚀 Demo Instructions
-- Access the app at: `http://127.0.0.1:5000`  
-- Upload images or provide video feeds to test the system.
-
----
-
-## 📊 Use Cases
-- **Traffic Management:** Real-time vehicle identification for monitoring.  
-- **Toll Collection:** Automated toll processing by detecting number plates.  
-- **Parking Management:** Efficient vehicle entry/exit logging for parking spaces.
-
----
-
-🔗 **GitHub Repository:** [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)  
-
-#YOLOv9 #EasyOCR #ComputerVision #Python #Flask #AWS #VehicleDetection #AI #ObjectDetection  
-
-
-### [Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System)
-**Technologies:** Python, OpenCV, YOLOv8 (custom-trained), ResNet-50, Cosine similarity, Kalman filtering, Tracking Algorithms (Deep SORT, ByteTrack, FairMOT)  
+### 🛡️ [Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System)  
+**Technologies:** Python, OpenCV, YOLOv8 (custom-trained), ResNet-50, Deep SORT, ByteTrack, FairMOT  
 **Timeline:** July 2024  
 
 ![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)  
 
----
+#### Overview  
+Built a sophisticated surveillance system capable of real-time human detection, tracking, and crowd flow analysis for public environments.  
 
-## 🛡️ Project Overview
-The **Smart Surveillance System** is an advanced, real-time human detection and tracking system for public environment monitoring. It combines cutting-edge computer vision techniques to provide insights such as tracking, counting, waiting time analysis, and movement pattern detection.
+#### Key Features  
+- 🔍 **Custom Detection:** YOLOv8 ensures accurate human detection.  
+- 🚶 **Advanced Tracking:** Implements Deep SORT, ByteTrack, and FairMOT.  
+- 📈 **Region-Based Analysis:** Tracks movement patterns and calculates waiting times.  
+- 🧍 **Re-Identification:** Identifies individuals across different views using ResNet-50.  
 
----
-
-## ✨ Key Features
-- **🔍 Object Detection:** Custom-trained YOLOv8 ensures precise object detection.  
-- **📊 Object Tracking:** Tracks individuals using algorithms like Deep SORT, ByteTrack, and FairMOT.  
-- **🧍 Re-Identification:** Identifies individuals across different camera views and time intervals.  
-- **📈 Region-Based Analysis:** Object counting and waiting time calculation within predefined regions.  
-- **🚶 Walk Flow Detection:** Visualizes crowd movement patterns for optimized space management.  
-
----
-
-## 🛠️ Technologies Used
-- **Computer Vision:** OpenCV  
-- **Detection Model:** YOLOv8 (custom-trained)  
-- **Programming Language:** Python  
-- **Tracking Algorithms:** Deep SORT, ByteTrack, FairMOT  
-- **Feature Extraction:** ResNet-50  
-- **Enhancements:** Cosine similarity, Kalman filtering  
-- **Framework:** PyTorch  
+#### Achievements  
+- ✅ Real-time object detection and tracking with high accuracy.  
+- ✅ Provided actionable insights for public space optimization.  
+- ✅ Comprehensive re-identification capabilities.  
 
 ---
 
-## 📊 Achievements
-- High accuracy achieved in real-time object detection and tracking.  
-- Implemented re-identification for more comprehensive surveillance.  
-- Provided actionable insights for improved public environment management.  
-
----
-
-## 🌐 Key Functionalities
-### Human Detection and Tracking  
-The system detects and tracks human movement with YOLOv8 and tracking algorithms for continuous updates.
-
-### Re-Identification  
-Ensures accurate identification of individuals across camera views using ResNet-50 and Cosine similarity.
-
-### Region-Based Analysis  
-Facilitates object counting and waiting time calculation within specific areas for better crowd control.
-
-### Walk Flow Detection  
-Analyzes movement patterns to identify bottlenecks and optimize crowd flow.
-
----
-
-## 🛡️ Note
-Due to the project's sensitive nature, the source code is not publicly available, but implementation details are shared to demonstrate its capabilities.
-
----
-
-### [End-to-End Medical Chatbot Using Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)
-**Technologies:** Python, Generative AI, Llama2, Langchain, Pinecone, sentence-transformers, Flask, AWS  
+### 🏥 [End-to-End Medical Chatbot Using Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)  
+**Technologies:** Python, Generative AI, Llama2, Langchain, Pinecone, Flask, AWS  
 **Timeline:** May 2024  
 
 ![End-to-End Medical Chatbot](https://github.com/Supun-Dissanayaka/End-to-End-Medical-Chatbot-Using-Llama2/blob/main/Output/Chatbot.png?raw=true)  
 
----
+#### Overview  
+Designed an interactive medical chatbot leveraging Llama2 and NLP for accurate and scalable real-time medical advice generation.  
 
-## 🏥 Project Overview
-The **End-to-End Medical Chatbot** harnesses Llama2 and advanced NLP technologies to provide accurate medical advice in real-time. It integrates AI-driven interaction with practical deployment for reliable, scalable use cases.
+#### Key Features  
+- 🤖 **Generative AI:** Llama2 for robust language understanding.  
+- 💾 **Semantic Search:** Pinecone ensures rapid data retrieval.  
+- 🌐 **Web Backend:** Flask enables user-friendly deployment.  
+- ☁️ **Cloud Deployment:** Hosted on AWS for high availability and scalability.  
 
----
+#### Achievements  
+- ✅ Real-time medical advice generation with high accuracy.  
+- ✅ Seamless integration of advanced NLP frameworks.  
+- ✅ Reliable performance under heavy traffic via AWS deployment.  
 
-## ✨ Key Features
-- **🤖 Llama2 Integration:** Robust natural language processing for generating medical advice.  
-- **💾 Pinecone Database:** Efficient real-time vector storage for fast response generation.  
-- **📚 Semantic Understanding:** Utilizes sentence-transformers to interpret medical queries precisely.  
-- **🌐 Web Backend:** Flask-based backend ensures easy deployment and scaling.  
-- **☁️ Scalable Hosting:** Deployed on AWS for optimal performance under high traffic.  
-
----
-
-## 🛠️ Technologies Used
-- **Language Model:** Llama2  
-- **Frameworks:** Langchain, Flask  
-- **Semantic Search:** sentence-transformers  
-- **Vector Database:** Pinecone  
-- **Programming Language:** Python  
-- **Cloud Hosting:** AWS  
-
----
-
-## 📊 Achievements
-- Delivered an interactive chatbot providing accurate, real-time medical advice.  
-- Enhanced chatbot performance with cutting-edge NLP technologies.  
-- Successfully deployed on AWS for high availability and performance.
-
----
-
-## 🚀 Key Functionalities
-- **Natural Language Understanding:** Llama2 and sentence-transformers enable accurate medical advice generation.  
-- **Efficient Data Retrieval:** Pinecone ensures rapid and relevant information retrieval.  
-- **Seamless Integration:** Flask backend facilitates user interaction and deployment.  
-- **Scalable Solution:** AWS hosting supports reliable, high-traffic performance.
-
----
-
-🔗 **GitHub Repository:** [End-to-End Medical Chatbot Using Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)  
-
-#AI #Llama2 #Langchain #Python #Flask #AWS #MedicalChatbot #NLP  
 
 
 ### 📚 [Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API)
