@@ -126,78 +126,119 @@ The **Vehicle Number Plate Detection System** is a robust and scalable solution 
 
 
 
-### [Smart-Surveillance-System](https://github.com/supunlakshan100/Smart-Surveillance-System)
-**Technologies:** Python, OpenCV, YOLOv8 (custom-trained), ResNet-50, Cosine similarity, Kalman filtering, Tracking Algorithms (Deep SORT, ByteTrack, FairMOT)
+# [Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System)
+**Technologies:** Python, OpenCV, YOLOv8 (custom-trained), ResNet-50, Cosine similarity, Kalman filtering, Tracking Algorithms (Deep SORT, ByteTrack, FairMOT)  
 
-**Timeline:** July 2024
+**Timeline:** July 2024  
 
-![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)
-
-#### Overview
-The Smart Surveillance System is a sophisticated multi-object (human) detection and tracking system designed for public environments. It leverages advanced computer vision techniques and machine learning models to provide real-time insights into human activities. Key features include object detection, object tracking, object counting, region waiting time calculation, walk flow detection, and re-identification.
-
-#### Features
-- **Object Detection:** Utilizes a custom-trained YOLOv8 model for accurate object detection.
-- **Object Tracking:** Employs advanced tracking algorithms such as Deep SORT, ByteTrack, and FairMOT to maintain continuous tracking of detected objects.
-- **Re-Identification:** Enhances tracking by re-identifying individuals across different camera views and time intervals.
-- **Region Object Counting:** Counts the number of objects in specified regions.
-- **Region Waiting Time Calculation:** Computes the time objects spend in designated regions.
-- **Walk Flow Detection:** Analyzes and visualizes the flow of movement within the surveillance area.
-
-#### Technologies Used
-- **Computer Vision:** OpenCV
-- **Detection Model:** YOLOv8 (custom-trained)
-- **Programming Language:** Python
-- **Tracking Algorithms:** Deep SORT, ByteTrack, FairMOT
-- **Framework:** PyTorch
-- **Feature Extraction:** ResNet-50
-- **Identification Enhancement:** Cosine similarity, Kalman filtering
-
-#### Project Details
-This project showcases the implementation of a high-level surveillance system designed to enhance security and monitoring in public areas. The system integrates multiple advanced technologies to deliver precise and actionable insights.
-
-### Human Detection and Tracking
-The system uses a custom-trained YOLOv8 model for human detection, ensuring high accuracy and efficiency. The detection is followed by tracking algorithms like Deep SORT, ByteTrack, and FairMOT, which provide robust and reliable tracking capabilities.
-
-### Re-Identification
-The Re-Identification feature allows the system to recognize and track individuals across different camera views and over time, enhancing the overall tracking performance and providing more comprehensive surveillance coverage.
-
-### Region-Based Analysis
-To offer more in-depth analysis, the system includes features like region object counting and waiting time calculation. These features help in understanding crowd density and movement patterns within specific areas, contributing to better management and planning.
-
-### Walk Flow Detection
-The walk flow detection feature visualizes the movement patterns of individuals, aiding in the analysis of crowd behavior and the identification of potential issues in public space management.
-
-#### Note
-Due to the sensitive nature of the project, the source code is not publicly available. However, the results and methodologies used are described in this README to provide an overview of the system’s capabilities and functionalities.
+![Smart Surveillance System](https://github.com/supunlakshan100/Smart-Surveillance-System/blob/main/OutputVideos/sample_outputvideo.gif?raw=true)  
 
 ---
 
-### [End-to-End-Medical-Chatbot-Using-Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)
-**Technologies:** Python, Generative AI, Llama2, Langchain, Pinecone, sentence-transformers, Flask, AWS
-
-**Timeline:** May 2024
-
-![End-to-End Medical Chatbot](https://github.com/Supun-Dissanayaka/End-to-End-Medical-Chatbot-Using-Llama2/blob/main/Output/Chatbot.png?raw=true)
-
-
-#### Overview
-In this project, I developed an advanced medical chatbot designed to provide accurate and reliable medical information to users. Leveraging the power of the Llama2 language model and various AI technologies, the chatbot was engineered to enhance user interaction and support with sophisticated natural language processing capabilities.
-
-#### Key Features and Technologies
-- **Llama2 and Langchain:** Utilized Llama2 for its robust language understanding and generation capabilities, integrated with Langchain to manage conversational flows and enhance context retention.
-- **Pinecone Database:** Implemented Pinecone for efficient vector storage and retrieval, ensuring quick access to relevant information and a seamless user experience.
-- **Advanced NLP Techniques:** Employed sentence-transformers for semantic understanding, enabling the chatbot to comprehend and respond to complex medical queries with precision.
-- **Web Framework and Deployment:** Developed the application backend using Flask, facilitating easy deployment and scalability on AWS. This ensured that the chatbot could handle high traffic and provide consistent performance.
-- **User Interaction and Data Management:** Focused on creating an intuitive and user-friendly interface, leveraging advanced NLP capabilities to interpret user inputs accurately and manage medical data responsibly.
-
-#### Achievements
-- Developed a highly reliable and user-friendly medical chatbot capable of providing detailed and contextually relevant medical advice.
-- Enhanced the chatbot’s ability to understand and generate natural language, improving user engagement and satisfaction.
-- Successfully deployed the solution on AWS, ensuring scalability and robust performance.
-- This project demonstrates my ability to integrate cutting-edge AI technologies to solve real-world problems, showcasing my skills in natural language processing, data management, and scalable deployment.
+## 🛡️ Project Overview
+The **Smart Surveillance System** is an advanced multi-object (human) detection and tracking system designed for real-time public environment monitoring. The system integrates cutting-edge computer vision techniques and machine learning models to deliver actionable insights, including object tracking, counting, waiting time analysis, and movement pattern detection.
 
 ---
+
+## ✨ Key Features
+- **🔍 Object Detection:** Custom-trained YOLOv8 ensures accurate object detection.  
+- **📊 Object Tracking:** Tracks individuals using algorithms like Deep SORT, ByteTrack, and FairMOT.  
+- **🧍 Re-Identification:** Recognizes individuals across different camera views and time intervals.  
+- **📈 Region Analysis:** Includes region-based object counting and waiting time calculation.  
+- **🚶 Walk Flow Detection:** Visualizes and analyzes crowd movement patterns for better management.  
+
+---
+
+## 🛠️ Technologies Used
+- **Computer Vision:** OpenCV  
+- **Detection Model:** YOLOv8 (custom-trained)  
+- **Programming Language:** Python  
+- **Tracking Algorithms:** Deep SORT, ByteTrack, FairMOT  
+- **Feature Extraction:** ResNet-50  
+- **Enhancements:** Cosine similarity, Kalman filtering  
+- **Framework:** PyTorch  
+
+---
+
+## 📊 Achievements
+- Achieved high accuracy in real-time object detection and tracking.  
+- Successfully implemented re-identification for enhanced surveillance coverage.  
+- Delivered actionable insights for public environment management and planning.  
+
+---
+
+## 🌐 Key Functionalities
+### Human Detection and Tracking  
+The system detects humans using YOLOv8 and tracks their movements with advanced algorithms to maintain continuous, real-time updates.
+
+### Re-Identification  
+Re-identifies individuals across camera views using ResNet-50 and Cosine similarity, ensuring precise tracking in complex environments.
+
+### Region-Based Analysis  
+Includes object counting and waiting time analysis within predefined regions, enabling efficient crowd management and planning.
+
+### Walk Flow Detection  
+Analyzes movement patterns to identify bottlenecks and optimize public space management.
+
+---
+
+## 🛡️ Note
+Due to the sensitive nature of the project, the source code is not publicly available. However, the implementation details and results are summarized here to showcase the system's functionalities.  
+
+---
+
+# [End-to-End Medical Chatbot Using Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)
+**Technologies:** Python, Generative AI, Llama2, Langchain, Pinecone, sentence-transformers, Flask, AWS  
+
+**Timeline:** May 2024  
+
+![End-to-End Medical Chatbot](https://github.com/Supun-Dissanayaka/End-to-End-Medical-Chatbot-Using-Llama2/blob/main/Output/Chatbot.png?raw=true)  
+
+---
+
+## 🏥 Project Overview
+The **End-to-End Medical Chatbot** leverages the power of Llama2 and advanced NLP technologies to deliver accurate, real-time medical advice. Designed with scalability and user experience in mind, this solution demonstrates the integration of AI technologies for practical, real-world applications.
+
+---
+
+## ✨ Key Features
+- **🤖 Llama2 Integration:** Provides robust natural language understanding and generation.  
+- **💾 Pinecone Database:** Efficient vector storage and retrieval for real-time responses.  
+- **📚 Semantic Understanding:** Implements sentence-transformers for precise interpretation of medical queries.  
+- **🌐 Web Backend:** Built with Flask for seamless deployment and scaling.  
+- **☁️ Scalable Deployment:** Hosted on AWS, ensuring reliability and performance under heavy traffic.  
+
+---
+
+## 🛠️ Technologies Used
+- **Language Model:** Llama2  
+- **Frameworks:** Langchain, Flask  
+- **Semantic Search:** sentence-transformers  
+- **Vector Database:** Pinecone  
+- **Programming Language:** Python  
+- **Cloud Hosting:** AWS  
+
+---
+
+## 📊 Achievements
+- Delivered a user-friendly chatbot capable of generating accurate, real-time medical advice.  
+- Enhanced chatbot understanding with advanced NLP techniques for engaging user interactions.  
+- Successfully deployed a scalable, robust solution on AWS.  
+
+---
+
+## 🚀 Key Functionalities
+- **Natural Language Understanding:** Combines Llama2 and sentence-transformers for precise comprehension and response generation.  
+- **Efficient Data Retrieval:** Pinecone ensures fast and accurate retrieval of relevant medical information.  
+- **Seamless Integration:** Flask-based backend enables user-friendly interaction and easy deployment.  
+- **Scalable Solution:** AWS hosting ensures high availability and consistent performance.  
+
+---
+
+🔗 **GitHub Repository:** [End-to-End Medical Chatbot Using Llama2](https://github.com/supunlakshan100/End-to-End-Medical-Chatbot-Using-Llama2)  
+
+#AI #Llama2 #Langchain #Python #Flask #AWS #MedicalChatbot #NLP  
+
 
 ### [Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/supunlakshan100/Automated-MCQ-Generator-Using-Langchain-OpenAI-API)
 **Technologies:** Generative AI, Python, Langchain, OpenAI API, AWS, Streamlit
