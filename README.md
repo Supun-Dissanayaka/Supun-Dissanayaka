@@ -60,11 +60,11 @@
 ---
 # **Projects**
 
-### 🚗 [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)  
+### 🚗 [Intelligent Vehicle Number Plate Recognition System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)  
 **Technologies:** Python, YOLOv9, EasyOCR, OpenCV, Flask, AWS  
 **Timeline:** November 2024  
 
-![Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR/blob/main/output_.gif?raw=true)  
+![Intelligent Vehicle Number Plate Recognition System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR/blob/main/output_.gif?raw=true)  
 
 #### Overview  
 Developed a real-time system for vehicle number plate detection and recognition, combining advanced object detection models and OCR technologies.  
