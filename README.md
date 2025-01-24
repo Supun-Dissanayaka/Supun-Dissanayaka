@@ -54,7 +54,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Supun-Dissanayaka&show_icons=true&locale=en" alt="Supun-Dissanayaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supun-Dissanayaka&" alt="Supun-Dissanayaka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supun-Dissanayaka" alt="Supun-Dissanayaka" /></p>
+
 
 ---
 # **Projects**
