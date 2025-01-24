@@ -59,6 +59,73 @@
 ---
 ## **Projects**
 
+# [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)
+**Technologies:** Python, YOLOv9, EasyOCR, OpenCV, Flask, AWS
+
+**Timeline:** November 2024  
+
+![Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR/blob/main/output_.gif?raw=true)  
+
+---
+
+## 🚗 Project Overview
+The **Vehicle Number Plate Detection System** is a robust and scalable solution designed to detect and recognize vehicle number plates in real-time. By leveraging advanced object detection models and OCR technologies, it provides accurate results for various real-world applications, including traffic monitoring, toll collection, and parking management systems.
+
+---
+
+## ✨ Key Features
+- **🔍 Real-Time Number Plate Detection:** Utilizes YOLOv9 for high-speed, accurate number plate detection.
+- **📝 Text Recognition with OCR:** Implements EasyOCR for extracting text even under challenging conditions such as low light or angled plates.
+- **📸 Image Preprocessing:** Enhances input images with OpenCV to improve detection and recognition accuracy.
+- **🌐 Web Application Integration:** Provides a user-friendly web interface built with Flask.
+- **☁️ Cloud Deployment:** Deployed on AWS, ensuring scalability, reliability, and real-world accessibility.
+
+---
+
+## 🛠️ Technologies Used
+- **Object Detection:** YOLOv9  
+- **OCR Framework:** EasyOCR  
+- **Image Processing:** OpenCV  
+- **Web Framework:** Flask  
+- **Programming Language:** Python  
+- **Cloud Hosting:** AWS  
+
+---
+
+## 📚 How It Works
+1. **🔎 Detection:** YOLOv9 detects vehicle number plates from uploaded images or live video feeds.  
+2. **📝 OCR Processing:** EasyOCR extracts alphanumeric text from the detected number plates.  
+3. **🌐 Web Interface:** Flask provides an intuitive interface for users to upload images or access video feeds.  
+4. **☁️ Deployment:** The entire system is deployed on AWS for real-world scalability and performance.
+
+---
+
+## 📈 Achievements
+- ✅ Achieved high accuracy in both detection and recognition of vehicle number plates.  
+- ✅ Successfully deployed the system on AWS, ensuring robust performance and scalability.  
+- ✅ Demonstrated seamless integration of computer vision and OCR technologies for real-world applications.  
+
+---
+
+## 🚀 Demo Instructions
+- Access the app in your browser by visiting: `http://127.0.0.1:5000`.  
+- Upload an image or provide a video feed to see the system in action.  
+
+---
+
+## 📊 Use Cases
+- **Traffic Management:** Enables real-time identification of vehicles for law enforcement and monitoring.  
+- **Toll Booth Automation:** Streamlines toll collection by automatically recognizing number plates.  
+- **Parking Management:** Efficiently logs vehicle entry/exit for managing parking spaces.  
+
+---
+
+🔗 **GitHub Repository:** [Vehicle Number Plate Detection System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR)  
+
+#YOLOv9 #EasyOCR #ComputerVision #Python #Flask #AWS #VehicleDetection #AI #ObjectDetection  
+
+
+
 ### [Smart-Surveillance-System](https://github.com/supunlakshan100/Smart-Surveillance-System)
 **Technologies:** Python, OpenCV, YOLOv8 (custom-trained), ResNet-50, Cosine similarity, Kalman filtering, Tracking Algorithms (Deep SORT, ByteTrack, FairMOT)
 
