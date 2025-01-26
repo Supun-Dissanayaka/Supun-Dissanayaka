@@ -130,6 +130,8 @@ Designed an interactive medical chatbot leveraging Llama2 and NLP for accurate a
 **Technologies:** Generative AI, Python, Langchain, OpenAI API, AWS, Streamlit  
 **Timeline:** April 2024  
 
+![Automated-MCQ-Generator-Using-Langchain-OpenAI-API](https://github.com/Supun-Dissanayaka/Automated-MCQ-Generator-Using-Langchain-OpenAI-API/blob/main/output.png?raw=true)  
+
 #### Overview  
 Developed an automated system to generate multiple-choice questions from PDFs using Python and OpenAI API. Improved educational content creation efficiency by 40%, deploying on AWS with Streamlit for interactive use.  
 
